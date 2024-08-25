@@ -25,9 +25,6 @@ export default function Home() {
           <p>20th Jan - 22nd Jan, 2023</p>
           <button className="button">Explore Events</button>
         </div>
-        <div className="image">
-          <img src="sdddf" alt="Robotix Society" />
-        </div>
       </main>
       <footer className="footer">
         <div className="social">
